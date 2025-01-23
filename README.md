@@ -22,9 +22,11 @@ pip install streamlit torch torchaudio
 
 ### Example 1: Mozilla to Famous
 - Source (Mozilla): (any voice)
-- https://github.com/user-attachments/assets/1773d0c8-b758-4f08-baf6-90bf13c21d01
+
+  https://github.com/user-attachments/assets/1773d0c8-b758-4f08-baf6-90bf13c21d01
 - Converted (Famous): (romario)
-- https://github.com/user-attachments/assets/a483fbc0-4004-4860-9ebf-3dba91ab89ee
+
+https://github.com/user-attachments/assets/a483fbc0-4004-4860-9ebf-3dba91ab89ee
   ### Escute o áudio:
 
 
