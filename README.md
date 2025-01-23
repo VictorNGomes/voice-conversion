@@ -23,6 +23,11 @@ pip install streamlit torch torchaudio
 ### Example 1: Mozilla to Famous
 - Source (Mozilla): (any voice)[https://github.com/VictorNGomes/voice-conversion/blob/main/temp_input.mp3]
 - Converted (Famous): (romario)[https://github.com/VictorNGomes/voice-conversion/blob/main/converted_any_voice_to_romario.mp3]
+  ### Escute o áudio:
+<audio controls>
+  <source src="[audio/example.mp3](https://github.com/VictorNGomes/voice-conversion/blob/main/temp_input.mp3)" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
 
 
 ## Running the App
