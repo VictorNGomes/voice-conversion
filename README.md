@@ -24,16 +24,24 @@ pip install streamlit torch torchaudio
 - Source (Mozilla): (any voice)[https://github.com/VictorNGomes/voice-conversion/blob/main/temp_input.mp3]
 - Converted (Famous): (romario)[https://github.com/VictorNGomes/voice-conversion/blob/main/converted_any_voice_to_romario.mp3]
   ### Escute o áudio:
-<audio controls>
-  <source src="[audio/example.mp3](https://github.com/VictorNGomes/voice-conversion/blob/main/temp_input.mp3)" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
 
 
 ## Running the App
+
+https://github.com/user-attachments/assets/a483fbc0-4004-4860-9ebf-3dba91ab89ee
+
+
 ```bash
 streamlit run voice_conversion_app.py
+
+https://github.com/user-attachments/assets/74a413bd-d7cf-4fba-b8b5-8fd36ec4b37c
+
+
 ```
 
 ## Note
 Replace `[...]` with actual audio file paths in your repository.
+
+
+https://github.com/user-attachments/assets/1773d0c8-b758-4f08-baf6-90bf13c21d01
+
